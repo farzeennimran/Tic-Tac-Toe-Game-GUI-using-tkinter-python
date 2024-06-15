@@ -1,6 +1,6 @@
 # Tic Tac Toe Game GUI using tkinter python
 
-Simlpe Tic Tac Toe game using python tkinter
+### Simlpe Tic Tac Toe game using python tkinter
 
 ![image](https://github.com/farzeennimran/Tic-Tac-Toe-Game-GUI-using-tkinter-python/assets/136755585/40584158-6f69-46e4-9033-9a84d9581a49)
 
