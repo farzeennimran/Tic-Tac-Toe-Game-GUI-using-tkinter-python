@@ -1,4 +1,4 @@
-# Tic Tac Toe Game GUI using Tkinter and Alpha-Beta Pruning 🕹️
+# Tic Tac Toe Game GUI using Tkinter and Alpha-Beta Pruning 
 
 ## Introduction
 
